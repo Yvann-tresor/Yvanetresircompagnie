@@ -1,0 +1,27 @@
+
+1   <!Dctype html>
+2   <html>
+3    <head>
+4      <title> premier site héberger gratuitement </title>
+5      <meta charset*"UTF-8- />
+6      <style>
+7      img {
+8      display: blok;
+9      margin-right: auto;
+10     margin-right: auto }
+11   p{
+12     margin-right: auto;
+13     margin-right: auto;
+14     width: 6em
+15  }
+16   h1 {
+17     texte-align : center;
+18    }
+19   </style>
+20   </head>
+21   <body>
+22     <h1 texte-align*"center" > Bienvenue sur le site D'hébergement gratuit : I hébergement gratuit </h1>
+23     <img src*"hebergementgratuit.png" alt*"logo hebergementgratuit" />
+24     <p><a href*"https://www.instagram.com/p/B7J8HxOCa32/?igshid=YmMyMTA2M2Y=> abonnez vous </a></p>
+25    </body>
+26   </html>
